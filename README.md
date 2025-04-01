@@ -1,4 +1,4 @@
-# TaskMaster Pro ✅
+# To-Do List App
 
 <p align="center">
   <img src="screenshots/app_logo.png" alt="TaskMaster Pro Logo" width="200"/>
