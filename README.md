@@ -20,14 +20,10 @@ TaskMaster Pro is a beautiful, feature-rich todo application built with Flutter.
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/c7c068bb-086b-445a-a100-0f4371c0a79a)
+
+![image](https://github.com/user-attachments/assets/7fa6dbec-c9da-4e80-ba79-746114d96820)
 
 
-<p align="center">
-  <img src="screenshots/add_task.png" width="250" alt="Add Task"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/task_completed.png" width="250" alt="Tasks Completed"/>
-</p>
 
 ## 🛠️ Technologies Used
 
