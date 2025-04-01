@@ -50,7 +50,7 @@ TaskMaster Pro is a beautiful, feature-rich todo application built with Flutter.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/taskmaster-pro.git
+git clone https://github.com/Tanzil-islam/To-do_app_with_flutter.git
 ```
 
 2. Navigate to the project directory:
@@ -72,36 +72,32 @@ flutter run
 
 ```
 lib/
-├── main.dart             # Entry point
-├── models/               # Data models
-│   └── task.dart         # Task model
-├── utils/                # Utility classes
-│   ├── colors.dart       # Color constants
-│   ├── constants.dart    # App constants
-│   └── strings.dart      # String constants
-├── view/                 # UI components
-│   ├── home/             # Home screen
-│   │   ├── home_view.dart
-│   │   └── widgets/      # Home screen widgets
-│   └── tasks/            # Task screens
+├── data/                  # Data handling
+│   └── hive_data_store.dart
+├── models/                # Data models
+│   ├── task.dart
+│   └── task.g.dart        # Generated file for Hive
+├── utils/                 # Utility classes
+│   ├── colors.dart        # Color constants
+│   ├── constanst.dart     # App constants
+│   └── strings.dart       # String constants
+├── view/                  # UI components
+│   ├── home/              # Home screen
+│   │   ├── widgets/       # Home screen widgets
+│   │   └── home_view.dart
+│   └── tasks/             # Task screens
 │       └── task_view.dart
+└── main.dart              # Entry point
 ```
 
 ## 🔜 Future Enhancements
 
 - Task categories and tags
-- Dark mode support
 - Cloud synchronization
 - Due date and reminders
 - Task priorities
 - Statistics and reports
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/taskmaster-pro/issues).
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
