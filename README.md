@@ -104,8 +104,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
 
-- [Flutter](https://flutter.dev) for the amazing framework
-- [Hive](https://docs.hivedb.dev) for the efficient local database
-- All the package maintainers for their valuable contributions
