@@ -18,7 +18,6 @@ Future<void> main() async {
   var box = await Hive.openBox<Task>("tasksBox");
 
   /// Delete data from previous day
-  // ignore: avoid_function_literals_in_foreach_calls
   box.values.forEach((task) {
     if (task.createdAtTime.day != DateTime.now().day) {
       task.delete();
