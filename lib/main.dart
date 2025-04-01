@@ -1,7 +1,3 @@
-//? CodeWithFlexz on Instagram
-
-//* AmirBayat0 on Github
-//! Programming with Flexz on Youtube
 
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -12,7 +8,7 @@ import '../models/task.dart';
 import '../view/home/home_view.dart';
 
 Future<void> main() async {
-  /// Initial Hive DB
+  
   await Hive.initFlutter();
 
   /// Register Hive Adapter
