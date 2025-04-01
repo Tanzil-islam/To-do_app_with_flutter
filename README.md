@@ -1,6 +1,5 @@
 # To-Do List App
 
-
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-v3.10.0-blue?logo=flutter" alt="Flutter Version"></a>
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-v3.0.0-blue?logo=dart" alt="Dart Version"></a>
@@ -20,6 +19,8 @@ TaskMaster Pro is a beautiful, feature-rich todo application built with Flutter.
 - **Animations**: Smooth transitions and animations throughout the app
 
 ## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/c7c068bb-086b-445a-a100-0f4371c0a79a)
 
 
 <p align="center">
