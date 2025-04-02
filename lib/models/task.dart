@@ -32,8 +32,6 @@ class Task extends HiveObject {
   /// CREATED AT DATE
   @HiveField(4)
   DateTime createdAtDate;
-
-  /// IS COMPLETED
   @HiveField(5)
   bool isCompleted;
 
