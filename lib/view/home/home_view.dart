@@ -135,7 +135,7 @@ class _HomeViewState extends State<HomeView> {
                   width: 25,
                 ),
 
-                /// Texts
+                
                 Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.start,
