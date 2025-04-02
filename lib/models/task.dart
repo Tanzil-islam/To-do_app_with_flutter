@@ -17,11 +17,11 @@ class Task extends HiveObject {
   @HiveField(0)
   final String id;
 
-  /// TITLE
+ 
   @HiveField(1)
   String title;
 
-  /// SUBTITLE
+  
   @HiveField(2)
   String subtitle;
 
