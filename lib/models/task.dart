@@ -35,7 +35,6 @@ class Task extends HiveObject {
   @HiveField(5)
   bool isCompleted;
 
-  /// create new Task 
   factory Task.create({
     required String? title,
     required String? subtitle,
